@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/mmartinez/Documents/GitHub/estructuras_datos_II/recursividad/src/tl/Gestor.cpp
+Gestor.h
+/Users/mmartinez/Documents/GitHub/estructuras_datos_II/recursividad/src/tl/Gestor.h
+
+/Users/mmartinez/Documents/GitHub/estructuras_datos_II/recursividad/src/tl/Gestor.h
+iostream
+-
+
